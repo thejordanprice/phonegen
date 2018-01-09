@@ -8,6 +8,10 @@
 
 A bash script to create word lists of phone numbers.
 
+### Requirements
+
+- Crunch
+
 ### Usage
 
 1. Edit the prefixes array inside the script.
