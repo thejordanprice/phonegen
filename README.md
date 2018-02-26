@@ -1,4 +1,4 @@
-# phonegen
+![Logoish](https://i.imgur.com/Dkc5sjm.png)
 
 [![GitHub issues](https://img.shields.io/github/issues/thejordanprice/phonegen.svg)](https://github.com/thejordanprice/phonegen/issues)
 [![GitHub stars](https://img.shields.io/github/stars/thejordanprice/phonegen.svg)](https://github.com/thejordanprice/phonegen/stargazers)
